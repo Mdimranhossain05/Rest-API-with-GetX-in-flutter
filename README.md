@@ -1,16 +1,13 @@
-# api_fetching_project
+Its a simple data fetching app from api.
 
-A new Flutter project.
+This is first page where data is a simple string:
 
-## Getting Started
+<img src="images/show_one.png" width="300" height="580">
 
-This project is a starting point for a Flutter application.
+This is second page where data is a list:
 
-A few resources to get you started if this is your first Flutter project:
+<img src="images/show_two.png" width="300" height="580">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This is third page where data is complex json and I am showing from the json category and in facts image_URL, name and description:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="images/show_three.png" width="300" height="580">
